@@ -1,16 +1,14 @@
-## Hi there 👋
+![](https://github-readme-stats.vercel.app/api/top-langs?username=asahi-abc&show_icons=true&locale=en&layout=compact)
 
-<!--
-**asahi-abc/asahi-abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=python,java,julia,swift,html,css,js," /> <br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks and Libraries
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,sklearn" /> <br /><br />
+
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,aws,figma,notion" /> <br /><br />
