@@ -1,5 +1,3 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=asahi-abc&show_icons=true&locale=en&layout=compact)
-
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,julia,swift,html,css,js," /> <br /><br />
