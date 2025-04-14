@@ -4,7 +4,7 @@
 
 ## Frameworks and Libraries
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,flask" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> <br /><br />
 
 
 ## DB and Dev Tools etc
